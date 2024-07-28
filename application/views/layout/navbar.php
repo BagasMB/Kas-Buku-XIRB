@@ -16,7 +16,7 @@
                     </a>
                     <div class="dropdown-menu dropdown-menu-end">
                         <a class="dropdown-item" href="<?= base_url('Profile'); ?>"><i class="align-middle me-2" data-feather="user"></i>My Profile</a>
-                        <a class="dropdown-item" href="<?= base_url('Password');?>"><i class="align-middle me-2" data-feather="lock"></i>Password</a>
+                        <a class="dropdown-item" href="<?= base_url('Password'); ?>"><i class="align-middle me-2" data-feather="lock"></i>Password</a>
                         <div class="dropdown-divider"></div>
                         <a class="dropdown-item" href="<?= base_url('auth/logout'); ?>"><i class="align-middle me-2" data-feather="log-out"></i>Log out</a>
                     </div>
